@@ -1,0 +1,11 @@
+img{
+width: 350px;
+height:450px;
+}
+nav{
+    background-color: lightpink;
+}
+nav a{
+color: white;
+font-size:36px;
+}
