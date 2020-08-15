@@ -1,6 +1,7 @@
 img{
 width: 350px;
 height:450px;
+border: 15px solid lightblue;
 }
 nav{
     background-color: lightpink;
